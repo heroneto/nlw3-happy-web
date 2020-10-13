@@ -14,7 +14,7 @@ Este projeto foi desenvolvido em React JS durante a NLW 3 da Rocketseat
 ### Screenshots
 
 #### Landing Page
-<img src="" alt="Landing Page">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-web/main/screenshots/landing.PNG" alt="Landing Page">
 
 #### Orphanages Page
-<img src="" alt="Orpanages page">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-web/main/screenshots/app.PNG" alt="Orpanages page">
